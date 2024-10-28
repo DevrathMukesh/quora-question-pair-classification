@@ -1,6 +1,6 @@
 # Quora Question Pairs Duplicate Detection
 
-## 🚀 [Launch the App on Streamlit](https://your-streamlit-link.streamlit.app) 🚀
+## 🚀 [Launch the App on Streamlit](https://quora-question-pair-classification-88vp3rbqfzzhsqr3mqpu7d.streamlit.app/) 🚀
 
 ## Overview
 The objective of this project is to determine whether two questions posted on Quora have the same intent, i.e., are semantically similar. With many users asking similar questions on the platform, identifying duplicates can enhance the user experience by reducing redundant content and helping users find relevant answers faster.
